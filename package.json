@@ -43,7 +43,7 @@
     "typescript": "^3.4.5"
   },
   "dependencies": {
-    "bignumber.js": "^9.0.0",
+    "bignumber.js": "^9.0.2",
     "ethers": "^4.0.28",
     "lodash.clonedeepwith": "^4.5.0"
   }
